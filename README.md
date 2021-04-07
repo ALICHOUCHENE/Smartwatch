@@ -13,5 +13,8 @@ Here the features of the board:
 - UART programming interface.
 - USB port for charging.
 
-<iframe src="https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/image/F_Cu_3D.PNG?raw=true" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+ #Manufacturing
+ 
+After finishing the Routing and verify the pcb. We made the board at JLC PCB and we chose also the PCB Assembly service.
+Here is the BOM needed for jlcpcb assembly service:
 
