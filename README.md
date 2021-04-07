@@ -11,6 +11,7 @@ Here the features of the board:
 - Optical Sensor IC,BH1792GLC, a heart rate monitor module integrated with LED driver, green light, and IR detection photodiode.
 - 1Cell / 3.7V 230mA Battery Management System / BMS Over Voltage, Over Current, Short Circuit Protection Module for Lithium ION Batterie.
 - UART programming interface.
+- I2C interface for OLED display.
 - USB port for charging.
 
  # Manufacturing
