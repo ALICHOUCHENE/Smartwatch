@@ -16,7 +16,7 @@ Here the features of the board:
  #Manufacturing
  
 After finishing the Routing and verify the pcb. We made the board at JLC PCB and we chose also the PCB Assembly service.
-Here is the BOM needed for jlcpcb assembly service:
+Here is the **[BOM](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Assembly/BOM.csv)** needed for jlcpcb assembly service:
 
 | Designator | Value           | Footprint                                                                        | LCSC Part |
 |------------|-----------------|----------------------------------------------------------------------------------|-----------|
