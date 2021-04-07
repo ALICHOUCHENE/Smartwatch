@@ -1,4 +1,4 @@
-# Smartwatch-
+# Description
 Smartwatch circuit for health and fitness
 This robust fitness watch was designed for football players who leads an active lifestyle and values health and well-being. 
 The watch creates for a personal training plan that adapts to some fitness needs. 
