@@ -50,3 +50,15 @@ Here is the **[BOM](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Assemb
 | U5         | AMS1117-3.3     | Package_TO_SOT_SMD:TSOT-23                                                       | C83932    |
 | C5         | 0.1UF           | 402                                                                              |  C1525    |
 
+
+# Downloads
+
+* [Board schematics](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Schematic.pdf)
+
+* [PCB layout](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Smartwatch.kicad_pcb)
+
+* [BOM](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Assembly/BOM.csv)
+
+* [Position file](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Assembly/Smartwatch-all-pos.csv)
+
+* [Gerber File](https://github.com/ALICHOUCHENE/Smartwatch-/blob/main/Gerber/Gerber.rar)
