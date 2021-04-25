@@ -16,6 +16,25 @@ Here the features of the board:
 - I2C interface for OLED display.
 - USB port for charging.
 
+
+# PCB Layout : 
+
+
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB.PNG)
+
+
+# Board 3D view : 
+
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/B_Cu_3D.PNG)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/F_Cu_3D.PNG)
+
+# Final Poduct : 
+
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/Final%20Product/Back.jpg)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/Final%20Product/Front.jpg)
+
+
+
  # Manufacturing
  
 After finishing the Routing and verify the pcb. We made the board at JLC PCB and we chose also the PCB Assembly service.
