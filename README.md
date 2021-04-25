@@ -20,17 +20,17 @@ Here the features of the board:
 # PCB Layout : 
 
 
-![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB.PNG){:height="50%" width="50%"}
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB.PNG)
 
 # Board 3D view : 
 
-![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/B_Cu_3D.PNG=250x250)
-![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/F_Cu_3D.PNG=250x250)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/B_Cu_3D.PNG)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/F_Cu_3D.PNG)
 
 # Final Poduct : 
 
-![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/Final%20Product/Back.jpg=250x250)
-![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/Final%20Product/Front.jpg=250x250)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/Final%20Product/Back.jpg)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/Final%20Product/Front.jpg)
 
 
 
