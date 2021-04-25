@@ -20,7 +20,7 @@ Here the features of the board:
 # PCB Layout : 
 
 
-![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB.PNG =250x250)
+![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB.PNG  | width=100)
 
 
 # Board 3D view : 
