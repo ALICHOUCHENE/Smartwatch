@@ -19,8 +19,8 @@ Here the features of the board:
 
 # PCB Layout : 
 
-
 ![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB.PNG)
+
 ![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/PCB_4layers.PNG)
 
 # Board 3D view : 
