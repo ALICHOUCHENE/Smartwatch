@@ -26,8 +26,14 @@ Here the features of the board:
 
 # Board 3D view : 
 
+
+
 ![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/B_Cu_3D.PNG)
+
+
 ![alt text](https://github.com/ALICHOUCHENE/Smartwatch/blob/main/image/F_Cu_3D.PNG)
+
+
 
 # Final Poduct : 
 
